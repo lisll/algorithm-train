@@ -1,4 +1,4 @@
-package com.datapipeline.marginCalculation;
+package com.datapipeline.algorithm.marginCalculation;
 
 import java.util.*;
 

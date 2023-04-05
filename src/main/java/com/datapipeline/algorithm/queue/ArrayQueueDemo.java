@@ -1,4 +1,4 @@
-package com.datapipeline.queue;
+package com.datapipeline.algorithm.queue;
 
 
 /**

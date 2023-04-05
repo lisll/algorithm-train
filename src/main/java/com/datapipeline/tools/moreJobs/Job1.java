@@ -2,10 +2,8 @@ package com.datapipeline.tools.moreJobs;
 
 
 
-import com.datapipeline.marginCalculation.DiffCal;
+import com.datapipeline.algorithm.marginCalculation.DiffCal;
 import com.datapipeline.tools.FileUtil;
-import java.io.File;
-import java.util.List;
 import java.util.Set;
 
 /**

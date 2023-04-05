@@ -1,4 +1,4 @@
-package com.datapipeline.stack;
+package com.datapipeline.algorithm.stack;
 
 import java.util.ArrayList;
 import java.util.List;

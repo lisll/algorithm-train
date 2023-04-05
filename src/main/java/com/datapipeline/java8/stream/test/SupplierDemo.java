@@ -1,4 +1,4 @@
-package com.datapipeline.test;
+package com.datapipeline.java8.stream.test;
 
 import java.util.function.Supplier;
 

@@ -1,4 +1,4 @@
-package com.datapipeline.LinkedList;
+package com.datapipeline.algorithm.LinkedList;
 
 import org.apache.poi.ss.formula.functions.T;
 

@@ -1,4 +1,4 @@
-package com.datapipeline.stack;
+package com.datapipeline.algorithm.stack;
 
 /**
  * Company: www.hecom.cn

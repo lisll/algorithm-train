@@ -1,4 +1,4 @@
-package com.datapipeline.sparsearray;
+package com.datapipeline.algorithm.sparsearray;
 
 /**
  * Company: www.hecom.cn

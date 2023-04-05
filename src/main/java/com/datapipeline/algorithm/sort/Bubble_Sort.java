@@ -1,4 +1,4 @@
-package com.datapipeline.sort;
+package com.datapipeline.algorithm.sort;
 
 import java.util.Arrays;
 
