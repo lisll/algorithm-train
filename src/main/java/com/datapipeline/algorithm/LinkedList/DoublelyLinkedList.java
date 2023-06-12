@@ -48,7 +48,6 @@ public class DoublelyLinkedList<T> {
         return size;
     }
 
-
     /**
      * 头插法
      * 如果链表为空
